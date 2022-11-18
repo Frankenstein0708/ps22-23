@@ -1,0 +1,207 @@
+.homeimage
+{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;   
+    border-radius: 50px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.himage
+{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.texthome
+{
+
+    color: white;
+    background-color:#519ab7;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+.page
+{
+    background: rgb(170, 224, 232);
+}
+
+
+.img1
+{
+    display: inline-block;
+    width:1000px;
+    height: 1000px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 30px;
+    
+
+}
+.divimg1,.divimg2
+{
+    display:inline-block;
+    width: 490px;
+    vertical-align: top;
+    
+}
+
+.augimg1,.augimg2
+{
+    
+    width:490px;
+    vertical-align: top;
+    border-radius: 40px;
+    
+
+}
+
+.txtimg1,.txtimg2
+{
+    display:inline-block;
+    width: 490px;
+    vertical-align: middle;
+    
+    
+    
+    
+   
+}
+.img1info,.img2info
+{
+    display: block;
+    font-weight: bold;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    vertical-align: middle;
+    
+    
+
+
+}
+
+.julypage
+{
+  background-image: url("july/artjulybg.jpg");
+  background-color: #cccccc;
+}
+
+.julycenter
+{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  border-radius: 20px;
+
+}
+.julyinfo
+{
+  text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.accordian-panel
+{
+    background-color: rgb(36, 68, 79);
+}
+.accordian-panel>.accordian-flush
+{
+    background-color: rgb(36, 68, 79);
+}
+
+
+.augpage
+{
+    background-image: url("augustimg/august.jpg");
+    background-color: #cccccc;
+}
+
+.cardstyle
+{
+    display: block;
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+.aboutcontent
+{
+    display: inline-block;
+    width: 1500px;
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+.aboutdivimg
+{
+    display:inline-block;
+    width: 400px;
+    vertical-align: top;
+}
+.aboutimg
+{
+    width: 400px;
+}
+.aboutinfo
+{
+    display: inline-block;
+    width: 1000px;
+}
+.aboutpara
+{
+    display: block;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+.cpage
+{
+  background-image: url("contact.jpg");
+  background-color: #cccccc;
+  
+}
+.inputcontact
+{
+    display: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 800px;
+
+}
+.submit
+{
+    background-color: rgb(87, 82, 82);
+    color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+}
+.submit:hover
+{
+    opacity: 0.8;
+    background-color:#e3f2fd;
+    color:black;
+}
